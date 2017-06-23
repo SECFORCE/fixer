@@ -1,0 +1,14 @@
+20161121-13:43:27.484 : Created session
+20161121-13:43:27.485 : Connecting to 127.0.0.1 on port 9878
+20161121-13:43:27.486 : Initiated logon request
+20161121-13:43:27.503 : Socket Error: Connection reset by peer.
+20161121-13:43:27.503 : Disconnecting
+20161121-13:46:10.131 : Created session
+20161121-13:46:10.132 : Connecting to 127.0.0.1 on port 9878
+20161121-13:46:10.133 : Initiated logon request
+20161121-13:46:10.148 : Socket Error: Connection reset by peer.
+20161121-13:46:10.148 : Disconnecting
+20161121-13:47:10.965 : Connecting to 127.0.0.1 on port 9878
+20161121-13:47:10.966 : Initiated logon request
+20161121-13:47:10.971 : Socket Error: Connection reset by peer.
+20161121-13:47:10.971 : Disconnecting

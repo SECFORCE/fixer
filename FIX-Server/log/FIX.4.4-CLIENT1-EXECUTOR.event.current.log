@@ -1,0 +1,73 @@
+20161121-12:26:27.913 : Created session
+20161121-12:26:27.915 : Connecting to 127.0.0.1 on port 5501
+20161121-12:26:27.915 : Initiated logon request
+20161121-12:26:27.915 : Socket Error: Connection reset by peer.
+20161121-12:26:27.915 : Disconnecting
+20161121-12:27:27.761 : Connecting to 127.0.0.1 on port 5501
+20161121-12:27:27.762 : Initiated logon request
+20161121-12:27:27.762 : Socket Error: Connection reset by peer.
+20161121-12:27:27.762 : Disconnecting
+20161121-12:28:27.211 : Connecting to 127.0.0.1 on port 5501
+20161121-12:28:27.212 : Initiated logon request
+20161121-12:28:27.212 : Socket Error: Connection reset by peer.
+20161121-12:28:27.212 : Disconnecting
+20161121-12:29:27.228 : Connecting to 127.0.0.1 on port 5501
+20161121-12:29:27.229 : Initiated logon request
+20161121-12:29:27.229 : Socket Error: Connection reset by peer.
+20161121-12:29:27.229 : Disconnecting
+20161121-12:30:27.805 : Connecting to 127.0.0.1 on port 5501
+20161121-12:30:27.806 : Initiated logon request
+20161121-12:30:27.806 : Socket Error: Connection reset by peer.
+20161121-12:30:27.806 : Disconnecting
+20161121-12:31:27.048 : Connecting to 127.0.0.1 on port 5501
+20161121-12:31:27.049 : Initiated logon request
+20161121-12:31:27.049 : Socket Error: Connection reset by peer.
+20161121-12:31:27.049 : Disconnecting
+20161121-12:32:27.814 : Connecting to 127.0.0.1 on port 5501
+20161121-12:32:27.816 : Initiated logon request
+20161121-12:32:27.816 : Socket Error: Connection reset by peer.
+20161121-12:32:27.816 : Disconnecting
+20161121-12:33:27.185 : Connecting to 127.0.0.1 on port 5501
+20161121-12:33:27.186 : Initiated logon request
+20161121-12:33:27.186 : Socket Error: Connection reset by peer.
+20161121-12:33:27.186 : Disconnecting
+20161121-12:34:27.064 : Connecting to 127.0.0.1 on port 5501
+20161121-12:34:27.065 : Initiated logon request
+20161121-12:34:27.065 : Socket Error: Connection reset by peer.
+20161121-12:34:27.065 : Disconnecting
+20161121-12:38:41.829 : Created session
+20161121-12:38:41.830 : Connecting to 127.0.0.1 on port 5501
+20161121-12:38:41.831 : Initiated logon request
+20161121-12:38:41.831 : Socket Error: Connection reset by peer.
+20161121-12:38:41.831 : Disconnecting
+20161121-12:40:25.434 : Created session
+20161121-12:40:25.435 : Connecting to 127.0.0.1 on port 9878
+20161121-12:40:25.436 : Initiated logon request
+20161121-12:40:25.448 : Socket Error: Connection reset by peer.
+20161121-12:40:25.448 : Disconnecting
+20161121-12:41:25.233 : Connecting to 127.0.0.1 on port 9878
+20161121-12:41:25.234 : Initiated logon request
+20161121-12:41:25.235 : Socket Error: Connection reset by peer.
+20161121-12:41:25.236 : Disconnecting
+20161121-12:42:25.648 : Connecting to 127.0.0.1 on port 9878
+20161121-12:42:25.649 : Initiated logon request
+20161121-12:42:25.654 : Socket Error: Connection reset by peer.
+20161121-12:42:25.654 : Disconnecting
+20161121-13:19:14.740 : Created session
+20161121-13:19:14.741 : Connecting to 127.0.0.1 on port 9878
+20161121-13:19:14.743 : Initiated logon request
+20161121-13:19:14.743 : Socket Error: Connection reset by peer.
+20161121-13:19:14.743 : Disconnecting
+20161121-13:19:19.788 : Created session
+20161121-13:19:19.789 : Connecting to 127.0.0.1 on port 9878
+20161121-13:19:19.790 : Initiated logon request
+20161121-13:19:19.791 : Socket Error: Connection reset by peer.
+20161121-13:19:19.791 : Disconnecting
+20161121-13:39:41.144 : Created session
+20161121-13:39:41.145 : Connecting to 127.0.0.1 on port 9878
+20161121-13:39:41.146 : Initiated logon request
+20161121-13:39:51.141 : Timed out waiting for logon response
+20161121-13:39:51.141 : Disconnecting
+20161121-13:39:51.142 : Initiated logon request
+20161121-13:40:41.929 : Connecting to 127.0.0.1 on port 9878
+20161121-13:40:41.932 : Initiated logon request

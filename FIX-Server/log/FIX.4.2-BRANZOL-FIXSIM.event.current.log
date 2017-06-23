@@ -1,0 +1,118 @@
+20161121-16:56:56.811 : Created session
+20161121-16:57:00.772 : Created session
+20161121-16:57:09.499 : Created session
+20161121-16:57:23.560 : Created session
+20161121-16:58:43.008 : Created session
+20161121-16:58:43.008 : Connecting to 127.0.0.1 on port 11310
+20161121-16:58:43.008 : Initiated logon request
+20161121-16:58:43.009 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20161121-16:58:43.009 : Received logon response
+20161121-17:05:50.245 : Created session
+20161121-17:05:50.245 : Connecting to 127.0.0.1 on port 11310
+20161121-17:05:50.246 : Initiated logon request
+20161121-17:05:50.246 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20161121-17:05:50.246 : Received logon response
+20161122-00:00:00.174 : Disconnecting
+20161122-00:00:00.177 : Initiated logon request
+20161122-00:00:50.403 : Connecting to 127.0.0.1 on port 11310
+20161122-00:00:50.404 : Initiated logon request
+20161122-00:00:50.404 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20161122-00:00:50.404 : Received logon response
+20161124-14:48:58.040 : Created session
+20161124-14:48:58.041 : Connecting to 127.0.0.1 on port 11310
+20161124-14:48:58.041 : Initiated logon request
+20161124-14:48:58.042 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20161124-14:48:58.042 : Received logon response
+20161124-14:57:03.173 : Created session
+20161124-14:57:03.174 : Connecting to 127.0.0.1 on port 11310
+20161124-14:57:03.177 : Initiated logon request
+20161124-14:57:03.178 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20161124-14:57:03.178 : Received logon response
+20161124-16:04:05.318 : Created session
+20161124-16:04:05.318 : Connecting to 127.0.0.1 on port 11310
+20161124-16:04:05.319 : Initiated logon request
+20161124-16:04:05.321 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20161124-16:04:05.322 : Received logon response
+20161124-16:04:12.764 : Created session
+20161124-16:04:12.765 : Connecting to 127.0.0.1 on port 11310
+20161124-16:04:12.765 : Initiated logon request
+20161124-16:04:12.765 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20161124-16:04:12.765 : Received logon response
+20170407-14:35:48.869 : Created session
+20170407-14:35:48.869 : Connecting to 127.0.0.1 on port 11310
+20170407-14:35:48.870 : Initiated logon request
+20170407-14:35:48.870 : Socket Error: Connection reset by peer.
+20170407-14:35:48.870 : Disconnecting
+20170407-14:41:53.979 : Created session
+20170407-14:41:53.979 : Connecting to 127.0.0.1 on port 11310
+20170407-14:41:53.980 : Initiated logon request
+20170407-14:41:53.980 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170407-14:41:53.980 : Received logon response
+20170407-14:43:31.674 : Socket Error: Connection reset by peer.
+20170407-14:43:31.674 : Disconnecting
+20170407-14:43:53.475 : Connecting to 127.0.0.1 on port 11310
+20170407-14:43:53.476 : Initiated logon request
+20170407-14:43:53.478 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170407-14:43:53.478 : Received logon response
+20170407-14:46:08.878 : Socket Error: Connection reset by peer.
+20170407-14:46:08.878 : Disconnecting
+20170407-14:46:53.852 : Connecting to 127.0.0.1 on port 11310
+20170407-14:46:53.853 : Initiated logon request
+20170407-14:46:53.855 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170407-14:46:53.855 : Received logon response
+20170407-15:01:07.843 : Created session
+20170407-15:01:07.843 : Connecting to 127.0.0.1 on port 11310
+20170407-15:01:07.844 : Initiated logon request
+20170407-15:01:07.844 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170407-15:01:07.844 : Received logon response
+20170407-15:01:11.653 : Socket Error: Bad file descriptor
+20170504-12:15:24.845 : Created session
+20170504-12:15:24.845 : Connecting to 127.0.0.1 on port 11310
+20170504-12:15:24.846 : Initiated logon request
+20170504-12:15:24.847 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170504-12:15:24.847 : Received logon response
+20170504-12:15:36.971 : Socket Error: Connection reset by peer.
+20170504-12:15:36.971 : Disconnecting
+20170504-12:18:21.437 : Created session
+20170504-12:18:21.438 : Connecting to 127.0.0.1 on port 11310
+20170504-12:18:21.439 : Initiated logon request
+20170504-12:18:21.440 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170504-12:18:21.440 : Received logon response
+20170504-12:19:33.891 : Socket Error: Connection reset by peer.
+20170504-12:19:33.891 : Disconnecting
+20170504-12:19:36.285 : Created session
+20170504-12:19:36.286 : Connecting to 127.0.0.1 on port 11310
+20170504-12:19:36.288 : Initiated logon request
+20170504-12:19:36.288 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170504-12:19:36.288 : Received logon response
+20170504-12:32:50.201 : Socket Error: Connection reset by peer.
+20170504-12:32:50.201 : Disconnecting
+20170504-12:41:05.918 : Created session
+20170504-12:41:05.918 : Connecting to 127.0.0.1 on port 11310
+20170504-12:41:05.919 : Initiated logon request
+20170504-12:41:05.920 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170504-12:41:05.920 : Received logon response
+20170504-12:45:55.371 : Socket Error: Connection reset by peer.
+20170504-12:45:55.371 : Disconnecting
+20170504-12:47:29.244 : Created session
+20170504-12:47:29.245 : Connecting to 127.0.0.1 on port 11310
+20170504-12:47:29.245 : Initiated logon request
+20170504-12:47:29.246 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170504-12:47:29.246 : Received logon response
+20170504-12:50:15.576 : Socket Error: Connection reset by peer.
+20170504-12:50:15.576 : Disconnecting
+20170504-12:51:50.197 : Created session
+20170504-12:51:50.198 : Connecting to 127.0.0.1 on port 11310
+20170504-12:51:50.199 : Initiated logon request
+20170504-12:51:50.199 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170504-12:51:50.199 : Received logon response
+20170504-13:04:04.730 : Created session
+20170504-13:04:04.731 : Connecting to 127.0.0.1 on port 11310
+20170504-13:04:04.731 : Initiated logon request
+20170504-13:04:04.732 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170504-13:04:04.732 : Received logon response
+20170504-13:56:57.625 : Created session
+20170504-13:56:57.626 : Connecting to 127.0.0.1 on port 11310
+20170504-13:56:57.626 : Initiated logon request
+20170504-13:56:57.627 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170504-13:56:57.627 : Received logon response
