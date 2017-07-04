@@ -1,5 +1,20 @@
 # -*- coding: utf-8 -*- 
 # encoding=utf8  
+#!/usr/bin/python
+# Fixer: a FIX protocol fuzzer
+#     ______    _                       
+#    / ____/   (_)   _  __  ___    _____
+#   / /_      / /   | |/_/ / _ \  / ___/
+#  / __/     / /   _>  <  /  __/ / /    
+# /_/       /_/   /_/|_|  \___/ /_/                                           
+# 
+#                          
+# http://www.secforce.com  
+# Authors:
+# thanos.polychronis <at> secforce.com, lorenzo.vogelsang <at> secforce.com
+#################################################################################
+
+
 import sys 
 import socket
 import argparse
@@ -9,6 +24,13 @@ import datetime
 import itertools
 import fuzzer as fz
 from itertools import groupby
+
+__author__ = "Thanos Polychronis and Lorenzo Vogelsang"
+__copyright__ = "Copyright 2017, SECFORCE LTD"
+__license__ = "GPL"
+__version__ = "0.1"
+
+
 reload(sys) 
 sys.setdefaultencoding('utf8')
 
