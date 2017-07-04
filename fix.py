@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
 # encoding=utf8  
-#!/usr/bin/python
+#!/usr/bin/env python
 # Fixer: a FIX protocol fuzzer
 #     ______    _                       
 #    / ____/   (_)   _  __  ___    _____
