@@ -10,7 +10,9 @@ SECFORCE
   
   Lorenzo Vogelsang (@ptrac3)
 
-
+You Gotta Hack That
+  
+  Felix Ryan (@gotta_hack)
 
 Description:
 ----
@@ -36,13 +38,19 @@ Options:
 
 [REQUIRED] `--input-file`         Path of the captured .RAW file with a valid FIX login sequence
 
-[REQUIRED] `--csv-log`            Path for the output CSV log file
+[REQUIRED] `--csv`                Path for the output CSV log file
+
+`--seq-start`                     The sequence ID to start sending FIX messages with
 
 `--fuzz`                          Path of the file containing the payloads for fuzzing
 
 `--param`                         Comma separeted FIX fields to fuzz. If none were provided every field will be fuzzed
 
 `--auto-fuzz length step`         It enables the auto-fuzz mode which generates UTF-8 payloads on the fly accordingly to the length and step values that were passed
+
+`--sequential-fuzz`               Effectively a brute forcer
+
+`--no-fuzz`                       Just send the original FIX messages to show that the tool has connectivity and everything is working correctly
 
 Please also consider that --fuzz and --auto-fuzz are mutually exclusive parameters.
 
